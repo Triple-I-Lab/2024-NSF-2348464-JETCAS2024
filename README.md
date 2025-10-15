@@ -39,6 +39,8 @@ python experiments/forest_fire.py
 
 High accuracy (>98%) achieved across all models with CKKS encryption maintaining performance while ensuring data privacy.
 
+**Note that performance may vary depending on the operating system. You may need to adjust the model’s parameters slightly to achieve optimal results.**
+
 ## Key Features
 
 - **CKKS Homomorphic Encryption**: Train on encrypted data
@@ -81,3 +83,4 @@ efficient-ai-he/
 
 
 MIT
+
