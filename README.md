@@ -14,6 +14,9 @@ pip install -r requirements.txt
 ### Run Experiments
 
 Keep in mind that you MUST have dataset saved in the data folder.
+- Air pollution: https://www.kaggle.com/datasets/rupakroy/lstm-datasets-multivariate-univariate
+
+- Forest Fire: https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset
 
 ```bash
 # Air pollution forecasting
@@ -75,5 +78,6 @@ efficient-ai-he/
 ```
 
 ## License
+
 
 MIT
